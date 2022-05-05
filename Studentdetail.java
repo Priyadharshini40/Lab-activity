@@ -1,11 +1,9 @@
 class Studentdetail
 {
-static int rollno;//here the roll number is also same for every student but it incremented by one on each student
-//that's why i incremented rollnumber inside the display method
+static int rollno;//here the roll number is also same for every student but it incremented by one on each student that's why i incremented rollnumber inside the display method
 String stname;
 int  marks; 
-static String clgname="ABC";//with the help of static keyword we dont need to call the company name in everytime
-//and we dont need to pass company name as a parameter 
+static String clgname="ABC";//with the help of static keyword we dont need to call the company name in everytime and we dont need to pass company name as a parameter 
 Studentdetail(String s)
 {
 stname=s;
