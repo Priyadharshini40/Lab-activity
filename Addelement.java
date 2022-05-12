@@ -1,3 +1,4 @@
+//WRITE A PROGRAM TO ADD A ELEMENT IN A ARRAY AND REMOVE A ELEMENT IN AN ARRAY
 import java.util.*;
 class Addelement
 {
