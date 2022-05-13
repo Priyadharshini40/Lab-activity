@@ -36,12 +36,11 @@ System.out.println("the multiplication of a and b is:"+div);
 {
 public static void main(String args[])
 {
-Child c=new Child();
-c.calculate();
-c.show();
-Child1 c1=new Child1();
-c1.show1();
+
 Child2 c2=new Child2();
+c2.show();
+c2.calculate();
+c2.show1();
 c2.show2();
 }
 }
